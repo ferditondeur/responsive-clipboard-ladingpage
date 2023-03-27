@@ -385,7 +385,7 @@ footer {
     .workflow-grid {
         display: flex;
         justify-content: space-evenly;
-        margin: auto;
+        margin: 5% auto 0 auto;
         width: 85%;
     }
 
